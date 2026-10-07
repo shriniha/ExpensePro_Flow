@@ -73,8 +73,8 @@
 ### Setup Steps
 
 ```bash
-git clone https://github.com/shriniha/SAP.git
-cd SAP
+git clone https://github.com/shriniha/ExpensePro_Flow.git
+cd ExpensePro_Flow
 python -m venv venv
 source venv/bin/activate   # Windows: venv\Scripts\activate
 pip install -r requirements.txt
